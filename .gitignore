@@ -1,3 +1,17 @@
 /SportsStore.v12.suo
 /SportsStore.WebUI/obj
 /SportsStore.WebUI/bin
+/packages/Microsoft.AspNet.Mvc.5.1.1
+/packages/Microsoft.AspNet.Razor.3.1.1
+/packages/Moq.4.2.1402.2112
+/packages/Ninject.3.2.2.0
+/packages/Ninject.MVC3.3.2.0.0
+/packages/Ninject.Web.Common.3.2.0.0
+/packages/Ninject.Web.Common.WebHost.3.2.0.0
+/SportsStore.UnitTests/bin
+/SportsStore.Domain/bin
+/SportsStore.Domain/obj
+/SportsStore.UnitTests/obj
+/packages/Microsoft.AspNet.WebPages.3.1.1
+/packages/Microsoft.AspNet.Razor.3.1.2
+/packages/Microsoft.AspNet.WebPages.3.1.2
