@@ -17,5 +17,5 @@
 
 <div class="btn-group pull-right">
     @Html.PageLinks(Model.PagingInfo, x => Url.Action("List",
-    new { page = x }))
+        new { page = x, category = Model.CurrentCategory }))
 </div>
