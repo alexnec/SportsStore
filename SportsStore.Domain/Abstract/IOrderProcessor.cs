@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace SportsStore.Domain.Abstract
 {
-    public class IOrderProcessor
+    public interface IOrderProcessor
     {
         void ProcessOrder(Cart cart, ShippingDetails shippingDetails);
     }
