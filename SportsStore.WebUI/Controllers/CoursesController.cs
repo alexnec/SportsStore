@@ -12,7 +12,12 @@ namespace SportsStore.WebUI.Controllers
         // GET: /Courses/
         public ActionResult Index()
         {
-            ViewBag.Hello = "Хуй вам хохлы";
+            ViewBag.Hello = "hi";
+            return View();
+        }
+
+        public ActionResult FileUpload()
+        {
             return View();
         }
 	}
