@@ -252,6 +252,8 @@
     <Content Include="Views\Cart\Completed.cshtml" />
     <Content Include="Scripts\underscore.min.map" />
     <Content Include="Views\Courses\FileUpload.cshtml" />
+    <Content Include="Views\Nav\MenuHorizontal.cshtml" />
+    <Content Include="Views\Nav\FlexMenu.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
