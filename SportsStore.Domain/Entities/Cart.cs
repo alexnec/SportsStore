@@ -31,6 +31,9 @@ namespace SportsStore.Domain.Entities
                 line.Quantity += quantity;
             }
         }
+	
+	public void Tutu()
+	{	}
 
         public void RemoveLine(Product product)
         {
