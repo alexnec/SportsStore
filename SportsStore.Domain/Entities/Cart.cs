@@ -9,6 +9,7 @@ namespace SportsStore.Domain.Entities
     public class Cart
     {
         private List<CartLine> lineCollection = new List<CartLine>();
+	private string WWW;
 	public int trulala;
 	public string ddd;
         public void AddItem(Product product, int quantity)
